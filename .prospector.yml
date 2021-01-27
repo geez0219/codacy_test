@@ -21,10 +21,10 @@ pep257:
   run: true
   # see http://pep257.readthedocs.io/en/latest/error_codes.html
   disable:
-      - D200
-      - D212
-      - D205
-      - D202
+    - D200
+    - D212
+    - D205
+    - D202
 
 
 pep8:
